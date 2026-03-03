@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird (Clone)",
+    "description": "The classic bird flapping game.",
+    "thumbnail": "https://picsum.photos/seed/bird/400/300",
+    "iframeUrl": "https://wayou.github.io/flappybird/"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Classic snake game in your browser.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://snake.googlemaps.com/"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "The arcade classic.",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "iframeUrl": "https://macek.github.io/google_pacman/"
+  },
+  {
+    "id": "dino",
+    "title": "Chrome Dino",
+    "description": "The famous offline dinosaur game.",
+    "thumbnail": "https://picsum.photos/seed/dino/400/300",
+    "iframeUrl": "https://chromedino.com/"
+  }
+]
